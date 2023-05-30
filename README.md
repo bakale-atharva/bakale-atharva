@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 🌱 I’m a Beginner Coder, Student & CODM Sweat. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Web Development & I enjoy learning new things. </br>
 
 ![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=BakaleAtharva13&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Atharva's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BakaleAtharva13&layout=compact&langs_count=8&hide_border=true)
