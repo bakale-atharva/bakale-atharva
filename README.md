@@ -4,7 +4,7 @@
 
 I am a student and programmer who is looking forward to improve his skill set in the world of computers which he has admired since age 10.
  
- 🔭 I’m planning for a Project **Product Hunt Clone**.
+ 🔭 I’m planning for a Project **Imagely - Complete Image & Video Editor**.
  
  🌱 I’m currently learning Java
  
