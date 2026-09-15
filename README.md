@@ -55,20 +55,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bakale-atharva&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakale-atharva&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakale-atharva&hide_border=true&theme=tokyonight" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bakale-atharva&hide_border=true&theme=tokyo-night" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bakale-atharva&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
