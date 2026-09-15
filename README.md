@@ -92,7 +92,7 @@
 
 [![Website](https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.atharvabakale.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BakaleAtharva)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atharvabakale/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/athacvabakale/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=bakale-atharva&color=6366f1&style=flat-square&label=Profile+Views)
 
