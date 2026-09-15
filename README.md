@@ -80,7 +80,6 @@
 | **[Portfolio 2.0](https://github.com/bakale-atharva/Portfolio-2.0)** | My personal portfolio — Nocturne Editorial redesign with a full motion layer | Next.js · Convex · Clerk · Tailwind | [Visit →](https://portfolio.atharvabakale.com) |
 | **[Debut](https://github.com/bakale-atharva/Debut)** | Product-launch listing platform, vibecoded with Claude | Next.js · TypeScript | [Visit →](https://debut-umber.vercel.app) |
 | **[JobLane](https://github.com/bakale-atharva/Joblane)** | A job-finding app built end to end | Next.js · TypeScript | [Visit →](https://joblane-beryl.vercel.app) |
-| **[Nextgen Portfolio](https://github.com/bakale-atharva/Nextgen-Portfolio)** | An earlier portfolio iteration inspired by Sonny Sangha | Next.js · TypeScript | [Visit →](https://nextgen-portfolio-lac.vercel.app) |
 | **[Mindflow Journal](https://github.com/bakale-atharva/Mindflow-Journal)** | A journaling app for tracking thoughts and mood | TypeScript | — |
 | **[AI Storyteller](https://github.com/bakale-atharva/ai-storyteller)** | Generates stories using AI, inspired by Sonny Sangha | TypeScript | — |
 
