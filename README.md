@@ -13,8 +13,8 @@
 ### 👋 About Me
 
 - 🎓 Student & self-taught programmer, hooked on computers since age 10
-- 🔭 Currently building **Imagely** — a complete image & video editor
-- 🌱 Currently learning **Java** and going deeper into backend architecture with **Convex**
+- 🔭 Currently building **Checkin** — a complete booking application.
+- 🌱 Currently learning **C++** and going deeper into backend architecture with **Convex**
 - 💼 Recent builds: a job board ([JobLane](https://joblane-beryl.vercel.app)), a product-launch platform ([Debut](https://debut-umber.vercel.app)), and my own portfolio site
 - 👯 Not actively looking to collaborate right now, but always up for a good conversation about code
 - ⚡ Fun fact: most of my projects are inspired by real product teardowns, then rebuilt from scratch to actually understand how they work
