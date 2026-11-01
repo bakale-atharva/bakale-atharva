@@ -13,7 +13,7 @@
 ### 👋 About Me
 
 - 🎓 Student & self-taught programmer, hooked on computers since age 10
-- 🔭 Currently building **Checkin** — a complete booking application.
+- 🔭 Currently building **QuickCraten** — a complete grocery application.
 - 🌱 Currently learning **C++** and going deeper into backend architecture with **Convex**
 - 💼 Recent builds: a job board ([JobLane](https://joblane-beryl.vercel.app)), a product-launch platform ([Debut](https://debut-umber.vercel.app)), and my own portfolio site
 - 👯 Not actively looking to collaborate right now, but always up for a good conversation about code
